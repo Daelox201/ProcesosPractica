@@ -26,7 +26,7 @@ public class Tester {
          //  leyenda = administradorBD.borrarRegistro("TbEquipo", "id = 6");
            //   System.out.println(leyenda);
 		
-                //consulta
+                /*consulta
 		datosObtenidos = administradorBD.consultarDatos("tbUsuarios", "id , nombre,apPaterno, psw", "id=1");
                   System.out.println(leyenda);
 		for(i=0;i<datosObtenidos.size();i++)
@@ -37,5 +37,6 @@ public class Tester {
                     }
                     System.out.println();
 		}
+                */
         }
 }
